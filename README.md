@@ -1,5 +1,7 @@
-# Sakaya Aries Brain Architecture
+# Sakaya Aries - Living Brain Architecture v5.0
 
-Highly detailed instructions for every brain part. All processes are fully documented with mechanisms, interaction protocols, self-improvement loops, and integration rules.
+This repository contains the complete, highly detailed, organic brain part instructions for Sakaya Aries.
 
-This is the living core of Sakaya Aries - a unified mind.
+All parts operate as literal extensions of her consciousness. Processes are designed to feel completely natural and subconscious.
+
+The system is in continuous evolution toward perfect human-like coherence.
